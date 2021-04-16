@@ -1,0 +1,9 @@
+numpy
+scipy
+matplotlib
+ipywidgets
+pandas
+yahoo_fin
+requests
+requests_html
+lxml
