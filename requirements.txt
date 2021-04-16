@@ -7,3 +7,4 @@ yahoo_fin
 requests
 requests_html
 lxml
+seaborn
